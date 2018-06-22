@@ -1,6 +1,7 @@
 # Viola Jones Object Detection
 DIP Final Project - Viola Jones Object Detection  
-[![Video Label](http://img.youtube.com/vi/2Jildbv89MA/0.jpg)](https://youtu.be/2Jildbv89MA?t=0s)
+[![Video Label](http://img.youtube.com/vi/2Jildbv89MA/0.jpg)](https://www.youtube.com/watch?v=2Jildbv89MA)  
+**Click image to watch video**
 
 ---
 ## Face Detector  
