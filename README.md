@@ -6,8 +6,8 @@ DIP Final Project - Viola Jones Object Detection
 ---
 ## Face Detector  
 ### Result
-<center><img src="/Result/face_result_1.bmp" width="50%" height="50%"></center>  
-<center><img src="/Result/face_result_2.bmp" width="50%" height="50%"></center>  
+<center><img src="/Result/face_result_1.bmp" width="100%" height="100%"></center>  
+<center><img src="/Result/face_result_2.bmp" width="100%" height="100%"></center>  
 
 ### Evaluation  
 | 50% Overlap | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
@@ -24,9 +24,9 @@ DIP Final Project - Viola Jones Object Detection
 ---
 ## Human Detector  
 ### Result  
-  <center><img src="/Result/human_result_1.bmp" width="50%" height="50%"></center>  
-  <center><img src="/Result/human_result_2.bmp" width="50%" height="50%"></center>  
-  <center><img src="/Result/human_result_3.bmp" width="50%" height="50%"></center>  
+  <center><img src="/Result/human_result_1.bmp" width="100%" height="100%"></center>  
+  <center><img src="/Result/human_result_2.bmp" width="100%" height="100%"></center>  
+  <center><img src="/Result/human_result_3.bmp" width="100%" height="100%"></center>  
 
 ### Evaluation  
 | 50% Overlap | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
@@ -42,7 +42,7 @@ DIP Final Project - Viola Jones Object Detection
 ## Vehicle Detector  
 ### Front  
 #### Result  
-  <center><img src="/Result/vehicle_result_front.bmp" width="50%" height="50%"></center>  
+  <center><img src="/Result/vehicle_result_front.bmp" width="100%" height="100%"></center>  
   
 
 #### Evaluation
@@ -56,7 +56,7 @@ DIP Final Project - Viola Jones Object Detection
 
 ### Rear  
 #### Result  
-  <center><img src="/Result/vehicle_result_rear.bmp" width="50%" height="50%"></center>  
+  <center><img src="/Result/vehicle_result_rear.bmp" width="100%" height="100%"></center>  
   
 #### Evaluation
   | Rear | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
@@ -68,7 +68,7 @@ DIP Final Project - Viola Jones Object Detection
   | `GR+HE+GB` | 229 | 108 | 1251 | 0.15 | 0.67 | **`0.228 sec`** | 0.214 sec |
 ### Side
 #### Result
-  <center><img src="/Result/vehicle_result_side_1.bmp" width="50%" height="50%"></center>  
+  <center><img src="/Result/vehicle_result_side_1.bmp" width="100%" height="100%"></center>  
   
 ### Evaluation
 | Side | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
