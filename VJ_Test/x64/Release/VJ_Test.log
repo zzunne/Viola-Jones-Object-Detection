@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : 'c:\users\김경준\onedrive - 인하대학교\documents\inhauniv\2018-1\디지털영상처리설계\vj_test\x64\release\vj_test.exe' 경로에 대한 액세스가 거부되었습니다.
+  Moc'ing MainWindow.h...
+  Uic'ing MainWindow.ui...
+  Rcc'ing MainWindow.qrc...
+RCC : warning : No resources in 'C:\Users\源寃쎌?\OneDrive - ?명븯??숆탳\Documents\InhaUniv\2018-1\?붿??몄쁺?곸쿂由ъ꽕怨?VJ_Test\VJ_Test\MainWindow.qrc'.
+  
+  qrc_MainWindow.cpp
+  moc_MainWindow.cpp
+  main.cpp
+  MainWindow.cpp
+LINK : fatal error LNK1104: 'C:\Users\김경준\OneDrive - 인하대학교\Documents\InhaUniv\2018-1\디지털영상처리설계\VJ_Test\x64\Release\\VJ_Test.exe' 파일을 열 수 없습니다.
