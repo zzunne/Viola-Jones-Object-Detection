@@ -41,16 +41,21 @@ DIP Final Project - Viola Jones Object Detection
 ### Front  
 #### Result  
   <center><img src="/Result/vehicle_result_front.bmp" width="50%" height="50%"></center>  
-#### Evaluation  
+  
+
+#### Evaluation
   | Front | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
   | `BGR` | 184 | 129 | 1468 | 0.11 | 0.58 | 0.352 sec | 0.239 sec |
   | `GR+HE` | 184 | 129 | 1570 | 0.10 | 0.58 | 0.356 sec | 0.245 sec |
   | `BGR+GB` | 186 | 127 | **`1331`** | **`0.12`** | 0.59 | 0.392 sec | 0.239 sec |
-  | `GR+HE+GB` | **`191`** | **`122`** | 1464 | 0.12 | **`0.61`** | **`0.329 sec`** | **`0.223 sec`** |
+  | `GR+HE+GB` | **`191`** | **`122`** | 1464 | 0.12 | **`0.61`** | **`0.329 sec`** | **`0.223 sec`** |  
+
+
 ### Rear  
 #### Result  
   <center><img src="/Result/vehicle_result_rear.bmp" width="50%" height="50%"></center>  
+  
 #### Evaluation
   | Rear | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
   |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -62,6 +67,7 @@ DIP Final Project - Viola Jones Object Detection
 ### Side
 #### Result
   <center><img src="/Result/vehicle_result_side_1.bmp" width="50%" height="50%"></center>  
+  
 ### Evaluation
 | Side | TP | FN | FP | Precision | Recall | TIME/IMAGE | TIME/OBJECT |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
